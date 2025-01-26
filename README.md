@@ -1,6 +1,6 @@
 # TGJU-Crawl
-An update for tgju-crawl package by Hosein Ahmadi: https://pypi.org/project/tgju-crawl/
+An update for the `tgju-crawl` package by Hosein Ahmadi: [tgju-crawl on PyPI](https://pypi.org/project/tgju-crawl/)
 
-1. Fixes the Warning of crawling "طلای دست دوم"
-2. Fixes the Bug of crawling "تتر"
-3. Adds a method to crawl metadata
+* Fixed warning related to crawling "طلای دست دوم."
+* Fixed bug related to crawling "تتر."
+* Added a method to crawl metadata.
